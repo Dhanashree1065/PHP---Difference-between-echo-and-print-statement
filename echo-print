@@ -1,0 +1,11 @@
+echo
+1. echo is a statement that displays the output. It's possible to use it with or without parentheses.
+2. echo can send multiple strings that are separated by commas ( , )
+3. echo does not return any value.
+4. The echo statement is faster than the print statement.
+
+Print
+1. The print statement is also used to display the output. It can be used either with or without parentheses (print()).
+2. When you use print, you can't pass multiple arguments.
+3. Always return 1 when printing
+4. It is a slower than echo.
